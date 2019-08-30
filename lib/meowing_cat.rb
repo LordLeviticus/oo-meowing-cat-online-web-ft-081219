@@ -8,4 +8,3 @@ class Cat
 
 
 end
-learn submit_tag
